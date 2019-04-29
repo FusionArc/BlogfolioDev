@@ -1,1 +1,6 @@
-# Cloud-Django-Blog
+A Django Web App project; A personal milestone of my "Developer & Cloud Mastery Career"!
+My goals are to become a professional in computer science, built upon intensive and thorough
+self education, including copius amounts of reading, tubing and online academia.
+My'PATH' has been My Master....My Enemy....My Aide...and My Friend along my Journey to Code Mastery.... 
+To complete my quest and return as a Full Stack Developer. 
+I now know I must Master My'PATH'....  
