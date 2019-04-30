@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Portfolio2019.urls'
+ROOT_URLCONF = 'blogfolio.urls'
 
 TEMPLATES = [
     {
@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Portfolio2019.wsgi.application'
+WSGI_APPLICATION = 'blogfolio.wsgi.application'
 
 
 # Database
