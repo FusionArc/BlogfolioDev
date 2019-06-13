@@ -82,6 +82,7 @@ ipython_config.py
 .python-version
 pipfile.lock
 pipfile
+requirements.txt
 # celery beat schedule file
 celerybeat-schedule
 
