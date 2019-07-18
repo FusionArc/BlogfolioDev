@@ -80,7 +80,9 @@ ipython_config.py
 
 # pyenv
 .python-version
-
+pipfile.lock
+pipfile
+requirements.txt
 # celery beat schedule file
 celerybeat-schedule
 
