@@ -1,5 +1,5 @@
 -i https://pypi.org/simple/
-astroid^2.2.5
+wheel
 certifi^2019.3.9
 chardet^3.0.4
 click^7.0
